@@ -1,0 +1,120 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+html {
+  background-image: url("./assets/backgroundImage.png");  
+  display: flex;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+.container{
+  background: #c1353A;
+  opacity: 0.92;
+  padding: 10px;
+
+}
+
+.form-gift{
+  background: #FFF;
+  font-size: 15px;
+  max-width: 300px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  padding: 10px 15px;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.3);
+  border-radius: 2em;
+}
+
+.button{
+  outline: none;
+  padding: 8px;
+  font-size: 15px;
+  border: 0px solid;
+  border-radius: 5px;
+  color: white;
+  margin: 4px 8px;
+}
+
+.blue{
+  background: #25b0bc;
+}
+
+.blue:hover{
+  background: #166b72;
+}
+
+.pink{
+  background: #e95678;
+}
+
+.pink:hover{
+  background: #c23455;
+}
+
+.button[disabled]{
+  opacity: 0.3;
+}
+.label-input {
+  color: white;
+  font-size:50px;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  font-weight: bold;
+}
+
+.file-input{
+  padding: 8px;
+
+}
+
+.file-input > .text{
+  outline: none;
+  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.3);
+  padding: 0px 10px;
+  font-size: 15px;
+  height: 46px;
+  background: #DDD;
+  border: 0px solid;
+  border-radius: 5em;
+}
+
+.list{
+  display: block;
+  position: relative;
+  padding: 1em 1em 1em 1%;
+  cursor: pointer;
+  border-bottom: solid 1px #ddd;
+}
+
+.list.new-item{
+  opacity: 0;
+  transform: translateX(10px);
+  animation: fadeIn .1s linear forwards;
+}
+
+.list__state{
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+
+.list__value{
+  color: #076b74;
+  text-align: left;
+  transition: all 0.3s linear 0.3s;
+}
+
+@keyframes fadeIn {
+  to {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
