@@ -4,7 +4,18 @@
 
 ~~- Día 2: Nuestra app se ve muy poco navideña, demosle unos colores más lindos, rojo, verde, amarillo! Podemos ponernos creativos con lo que queramos!~~
 
+Evidencia día 2: 
+</br>
+<img src="https://github.com/JhoannaCRossi/advency/blob/main/day2/advency2.png" width="700">
+
+
 ~~- Día 3: Estámos generosos, vamos a agregar un formulario con un input para escribir nuestro regalo y un botón para agregarlo a nuestra lista, todavía no los podemos borrar, pero... es navidad! Por que querríamos borrar regalos?~~
+
+Evidencia día 3: 
+</br>
+<img src="https://github.com/JhoannaCRossi/advency/blob/main/day3/advency3.png" width="700">
+</br>
+
 
 - Día 4: Papa noel no estuvo muy contento con la demanda de regalos, vamos a tener que agregar un botón de eliminar a cada elemento para poder borrarlos individualmente.
 
