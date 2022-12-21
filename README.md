@@ -17,7 +17,11 @@ Evidencia día 3:
 </br>
 
 
-- Día 4: Papa noel no estuvo muy contento con la demanda de regalos, vamos a tener que agregar un botón de eliminar a cada elemento para poder borrarlos individualmente.
+~~- Día 4: Papa noel no estuvo muy contento con la demanda de regalos, vamos a tener que agregar un botón de eliminar a cada elemento para poder borrarlos individualmente.~~
+
+Evidencia día 4: 
+</br>
+<img src="https://github.com/JhoannaCRossi/advency/blob/main/day4/day4.png" width="700">
 
 - Día 5: La gente está muy indecisa y agrega muchos regalos y después los debe borrar de a uno! Agreguemos un botón para eliminar todos los regalos a la vez!
 
