@@ -23,7 +23,11 @@ Evidencia día 4:
 </br>
 <img src="https://github.com/JhoannaCRossi/advency/blob/main/day4/day4.png" width="700">
 
-- Día 5: La gente está muy indecisa y agrega muchos regalos y después los debe borrar de a uno! Agreguemos un botón para eliminar todos los regalos a la vez!
+~~- Día 5: La gente está muy indecisa y agrega muchos regalos y después los debe borrar de a uno! Agreguemos un botón para eliminar todos los regalos a la vez!~~
+
+Evidencia día 5: 
+</br>
+<img src="https://github.com/JhoannaCRossi/advency/blob/main/day5/day5.png" width="700">
 
 - Día 6: Nuestra aplicación no se ve muy bien cuando no hay regalos, agreguemos un mensaje alentando a agregar regalos cuando no haya ninguno!
 
