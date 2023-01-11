@@ -68,7 +68,7 @@ const Form = (props) => {
                 color="primary"
                 type="submit"
                 size="small"
-               // disabled={inputValue ? "" : "disabled"}
+               disabled={inputValue ? "" : "disabled"}
               >
                 Agregar
               </Button>

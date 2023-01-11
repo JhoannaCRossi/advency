@@ -24,15 +24,16 @@ const Checkboxs = (props) => {
           value={ id }
           control={
             <Checkbox
-              
               onChange={onChange}
               icon={<DeleteOutline />}
               checkedIcon={<DeleteForever />}
               defaultChecked={done}
+              style ={{
+                color: "#ba000d",
+              }}
             />
           }
           label={ inputValue }
-          labelPlacement="init"
         />
       </FormGroup>
     </FormControl>
