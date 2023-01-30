@@ -1,0 +1,31 @@
+:root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+}
+
+html {
+  background-image: url("./assets/backgroundImage.png");  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+/* body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+} */

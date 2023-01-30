@@ -1,0 +1,30 @@
+
+.label-input {
+  color: #ffe3e3;
+  font-size:50px;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  font-weight: bold;
+}
+
+.container{
+  background: #c1353A;
+  opacity: 0.92;
+  width: 350px;
+  max-height: 450px;
+  display: flex;
+  flex-flow: column;
+}
+
+.form-gift{
+  background-color: #ffe3e3;
+  
+}
+
+Form{
+  padding: 0.5em;
+}
+
+.item-text{
+  background-color: aliceblue;
+  padding-left: 1em;
+}
